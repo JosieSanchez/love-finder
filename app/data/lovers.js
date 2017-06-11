@@ -1,7 +1,7 @@
-var loversArray = [
+var lovers = [
 {
   "name":"Josie",
-  "photo":"http://i4.mirror.co.uk/incoming/article8247827.ece/ALTERNATES/s615b/PAY-Josie-Gibson.jpg",
+  "photo":"http://cinemagem.com/portal/wp-content/uploads/2015/12/viuva.jpg",
   "scores":[
       "4",
       "3",
@@ -23,7 +23,7 @@ var loversArray = [
 },
 {
 "name":"Melissa",
-  "photo":"http://static2.hypable.com/wp-content/uploads/2016/09/melissa-mccarthy.jpg",
+  "photo":"http://cms.marketplace.org/sites/default/files/styles/primary-image-900x500/public/GettyImages-517941028.jpg?itok=ON7vu-IW",
   "scores":[
       "3",
       "5",
@@ -34,7 +34,7 @@ var loversArray = [
 },
 {
 "name":"Andrew",
-  "photo":"https://s-media-cache-ak0.pinimg.com/originals/34/00/dc/3400dc906e5d1abf33085c50c26efb56.jpg",
+  "photo":"http://seriable.com/wp-content/uploads/2014/07/spn10-700x400.jpg",
   "scores":[
       "5",
       "1",
@@ -42,7 +42,7 @@ var loversArray = [
       "4",
       "8" //no comma needed at the end of this one
     ]
-}
+  }
 ];
 
 module.exports = lovers;
