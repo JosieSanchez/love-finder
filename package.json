@@ -1,0 +1,25 @@
+{
+  "name": "lovefinder",
+  "version": "1.0.0",
+  "description": "Week of 13:  Node and Express Servers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosieSanchez/love-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosieSanchez/love-finder/issues"
+  },
+  "homepage": "https://github.com/JosieSanchez/love-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
